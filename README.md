@@ -4,7 +4,7 @@ rtreego
 A library for efficiently storing and querying spatial data
 in the Go programming language.
 
-[![CI](https://github.com/dhconnelly/rtreego/actions/workflows/go.yml/badge.svg)](https://github.com/dhconnelly/rtreego/actions/workflows/go.yml)
+[![Build Status](https://travis-ci.org/dhconnelly/rtreego.png?branch=master)](https://travis-ci.org/dhconnelly/rtreego)
 [![Go Report Card](https://goreportcard.com/badge/github.com/dhconnelly/rtreego)](https://goreportcard.com/report/github.com/dhconnelly/rtreego)
 [![GoDoc](https://godoc.org/github.com/dhconnelly/rtreego?status.svg)](https://godoc.org/github.com/dhconnelly/rtreego)
 
